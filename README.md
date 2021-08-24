@@ -1,8 +1,4 @@
-1332<!-- Mrphisher -->
-
-<p align="center">
-  <img src=".imgs/logo.png">
-</p>
+<!-- Mrphisher -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.1-green?style=for-the-badge">
@@ -31,6 +27,17 @@
 
 
 ### Installation
+-install pkgs-
+
+$ pkg install update && upgrade
+
+$ pkg install wget
+
+$ pkg install php
+
+$ pkg install curl
+
+$ pkg install git
 
 - Just, Clone this repository -
 ```
@@ -63,9 +70,6 @@ $ bash Mrphisher.sh
 <h3 align="center">
 :: Workflow ::
 </h3>
-<p align="center">
-<img src=".imgs/wf.gif"/>
-</p>
 
 ### Special Thanks :
 
@@ -74,9 +78,8 @@ $ bash Mrphisher.sh
 - [**DarksecDevelopers**](https://github.com/DarksecDevelopers)
 - [**Moises Tapia**](https://github.com/MoisesTapia)
 
-
 ### Find Me on :
-<p align="left">
+<p align="center">
   <a href="https://github.com/ak47ak47" target="_blank"><img src="https://img.shields.io/badge/Github-technical--xl-green?style=for-the-badge&logo=github"></a>
   <a href="https://www.instagram.com/technicalxl/" target="_blank"><img src="https://img.shields.io/badge/follow-technicalxl-red"></a>
 </p>
